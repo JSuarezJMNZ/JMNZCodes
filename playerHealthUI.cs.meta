@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b11080df143d58344aae91cc334384d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heartPrefab: {fileID: 4426102622297662469, guid: cea267c2e534c8f4e9ad5e42c1724bbb, type: 3}
+  - heartContainer: {instanceID: 0}
+  - playerHealthScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2348 @@
+fileFormatVersion: 2
+guid: 3a7c482cd48bd154580e069b9bdc3d19
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMXspriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 156
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a9d0fe9df649743a68869cad860879
+      internalID: -843533258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 734
+        width: 8
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a718a875a27337449c8a05ca8cfb78e
+      internalID: 1993915296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 734
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eade28c75103541828f78322bee524
+      internalID: 1610018447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 734
+        width: 20
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a428d1fbc9e74ba614f0278818786
+      internalID: 482705914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 734
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec3db92afc97054f8fc22ef83764421
+      internalID: 730816232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d298ccfc1e9596429fefe417487d272
+      internalID: -1723278548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 734
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee118e71ce8154788422dd4f48a8f5
+      internalID: -1370912667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 734
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941a003eaa2f5a4196545d2b635e4c5
+      internalID: 495233276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 734
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951501c6ce6117640930aab73647f9ce
+      internalID: 1856022242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 734
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0181699fece64409f4de7099c35f8c
+      internalID: -1475298236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 734
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4050547be71202d4aa83f732fb5942fd
+      internalID: 170609911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 734
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de27c3d4097abb47a646534963970bf
+      internalID: -1212340264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 734
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6825ee8fe0334f96d6329f1707594
+      internalID: 85945831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 734
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cef1bfcd032b746ba9adaf190c45eb
+      internalID: 29128053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 734
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f904b1ff70b764a84995bbce3fa934
+      internalID: -1005431169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 734
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd736707b6d9e04fb7fd69e45124453
+      internalID: 1300242555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 734
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e811d45df7d58e4b8c5cadc8210a34b
+      internalID: -726174871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 734
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02903a0f007cdf74c8f33878dcb3d9a7
+      internalID: 27010929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 734
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c1e12b1e15074385fd4ac02150d22
+      internalID: 40506453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 734
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c17205249d0b744b2a5d61fd6122ea
+      internalID: 1485805726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 734
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104921782bd0df4a972e1786d438f0d
+      internalID: -229801461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 714
+        width: 114
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152924ec9147804db61ad916a871817
+      internalID: -1150349463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 714
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eedbed2580b9f244ab5d3536c164487
+      internalID: -1951502163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 714
+        width: 100
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f3514932621c47963d3df9295464a
+      internalID: 414237480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 626
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7d96330451ab343ba5443480d6591b
+      internalID: 1777538638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 626
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d0cfa3d4a20e43997bd90e187e71a
+      internalID: -997544042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 626
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2cccb2a9a579d43bdb71719c067aee
+      internalID: -1450939567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 626
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ebb459879f3aa418cd9acc10b5734b
+      internalID: 1828981868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 626
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe57f61b0b3ecc49a2ff5072194e0a6
+      internalID: 1597002256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 626
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f255620f9e96b884eafe3823c39be33b
+      internalID: 237497600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 626
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91970e08d954d784c8915954b46176a2
+      internalID: 267412271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 626
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6045cbb7ac32e4185ae718cfda9b51
+      internalID: -1133456191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 606
+        width: 100
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2470fa18a81c4eb6b9d9cb7a80ced
+      internalID: -1472112715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 518
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3274d3cdfe361ed40bdf85f750d0c7d0
+      internalID: 628793565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 518
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e66ff005e0034fb8028e95cfdfc05
+      internalID: -325613965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 518
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0dad6163b2944eaa5483561fae5d9
+      internalID: -813501943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 518
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a19b83d7d7a143b71a4c582784308
+      internalID: -1804912247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 520
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d747fbfc13a2e4c9b466ea3cca64d0
+      internalID: 906491196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 520
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e31087439167614697684f80aec8fdd
+      internalID: 791011015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 520
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799878593048924b99b359a4bf37855
+      internalID: -142965711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 520
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99547ac8687823d46974469273680f96
+      internalID: 1937141642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 518
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f6f33c69e92ae498536396d526afdd
+      internalID: -1547702098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 518
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc535d8cf5bfc434e85530478e217c85
+      internalID: 172785746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 518
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a33a6e5761a1a45accbcda2beec114
+      internalID: -1017324403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 518
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1fcf1d685ced1419cd2d60eeb6ea65
+      internalID: 312500546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 498
+        width: 114
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d08b1a044c772148a5c541fa1af1785
+      internalID: 722566483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 412
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb09b0619afe024c97f10dbb918f26b
+      internalID: 2087408251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da826bcafbb9294fad93ddbd0d0a15e
+      internalID: -973589788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 412
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4b3620f254c3440b71b2b85080f52b
+      internalID: -465744498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe82eddbc737a4bb70b504a94d97f1
+      internalID: -1598026407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 324
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e2552aefe6280449f049fd2fcef216
+      internalID: 1163821373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 324
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2b324dc0631b47bd66d8ec49596e7
+      internalID: -1762528391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 324
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411451cb3763a046869bef1cdf5c445
+      internalID: -1693742676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 326
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6dd6cc854586c48a9feebaf9c256e7
+      internalID: -1090834554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 326
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70efe6cf0cc6424eabfda4430b2da54
+      internalID: -1572029517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 326
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb515fc2e237a642adac986ffbb9fc1
+      internalID: 239252911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 326
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407ffad46518f94aa3aad542ea7a8a9
+      internalID: -973061913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 324
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caff57c461e5784abf73c80364eaa10
+      internalID: 1975654614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 324
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c788806bb6e264dbfb36d7587a3913
+      internalID: -395536651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 324
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d940ee73015454b838a7cd8d9c8e9d
+      internalID: -352418352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 324
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8b3e80290a5b4eae698796bfec0f5
+      internalID: -1847000873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968bdf8acb3e494e918020f1ae358ea
+      internalID: -264256645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 304
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f13e20a610540e44bbd7a1c1470ff78
+      internalID: -510765434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 220
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656174579154864a86c5ef386bb1ef0
+      internalID: 771706145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2fc24a2738e942970dc4bc9f6d0c2
+      internalID: -1644050802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 220
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05582727511fa5e46abbdc44482855c2
+      internalID: 813077823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb69a2971a6a7c4688e5fe15dfc4cda
+      internalID: -1858893869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 220
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839eb6a60e510334ca90a3fdcac0c735
+      internalID: -776165304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 220
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53415eb72b5d4644863fba276053a66
+      internalID: 112099787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 220
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a413df3ff997f64eae8e26b728dc9be
+      internalID: -1329676037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 220
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3811a173642199488e3ed85b72bab45
+      internalID: -638626646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 220
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4885f9b60789bd4fbb1a1fc023e61a6
+      internalID: -1766006045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 222
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88aa8a040e0d44b9d0835329480a38
+      internalID: 1150469363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfde79849121f648a5be884624e947c
+      internalID: 545819414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669c877adb967445a77fdc552b096ba
+      internalID: -289418628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebac818318d3646bb92bec4f3fe2a2
+      internalID: -196665605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e72313303c6b1f4784b6975838ebe63
+      internalID: -269052909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a89ebc567681c45953937238eb5b48
+      internalID: -1089343235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8949260a9d68643918fc95d256aab7
+      internalID: -849129898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 100
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa55785ce59fb64c97b78964f18c485
+      internalID: -367335717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 92
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e22119409d1bd4bbd18de202aadd22
+      internalID: -547419940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 92
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53735d7efb10564fbc0ab2b11b99af4
+      internalID: 1582581957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 92
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481bcbf7c26a8a842afab281669c0cf5
+      internalID: 998546484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 92
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db458f178ee2c4aa5bc900e63780fb
+      internalID: 853819352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 94
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56c6353e26060469286b100dae6870
+      internalID: 1292367070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 94
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c8b471621658409c43670638a0513
+      internalID: 283632720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659819be5d2d9cd43ab0072e03193d9a
+      internalID: 1894029580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565de4baf13f0d342aa58940020e987e
+      internalID: 254895124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62acff18b76a70644b7c536758631308
+      internalID: -961277084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2e173ee999964f954b90d54bf9936
+      internalID: -1579253630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 6
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66366c87d8793f24c8a93d8f61128b3a
+      internalID: -2053815975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a36fb6fc964445bdfb39f5c454839
+      internalID: 394254554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 6
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571cf4a0773d68f46b1919ab33f14afc
+      internalID: 1868649643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 6
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff6f1f0e19ad443b0b5c73ce6cb123
+      internalID: 2075289366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 4
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2718ecb9add3247a645d98b9e90e1d
+      internalID: -1056893167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562654fe8371b0540b661b47481796dc
+      internalID: -1754065291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 4
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e63a7cb6101e4da902160ac74c3e2
+      internalID: 55640746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMXspriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e302a66411aa9c49b1206b1cfbb30d6
+      internalID: 135354222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMXspriteSheet_0: -843533258
+      MMXspriteSheet_1: 1993915296
+      MMXspriteSheet_10: 170609911
+      MMXspriteSheet_11: -1212340264
+      MMXspriteSheet_12: 85945831
+      MMXspriteSheet_13: 29128053
+      MMXspriteSheet_14: -1005431169
+      MMXspriteSheet_15: 1300242555
+      MMXspriteSheet_16: -726174871
+      MMXspriteSheet_17: 27010929
+      MMXspriteSheet_18: 40506453
+      MMXspriteSheet_19: 1485805726
+      MMXspriteSheet_2: 1610018447
+      MMXspriteSheet_20: -229801461
+      MMXspriteSheet_21: -1150349463
+      MMXspriteSheet_22: -1951502163
+      MMXspriteSheet_23: 414237480
+      MMXspriteSheet_24: 1777538638
+      MMXspriteSheet_25: -997544042
+      MMXspriteSheet_26: -1450939567
+      MMXspriteSheet_27: 1828981868
+      MMXspriteSheet_28: 1597002256
+      MMXspriteSheet_29: 237497600
+      MMXspriteSheet_3: 482705914
+      MMXspriteSheet_30: 267412271
+      MMXspriteSheet_31: -1133456191
+      MMXspriteSheet_32: -1472112715
+      MMXspriteSheet_33: 628793565
+      MMXspriteSheet_34: -325613965
+      MMXspriteSheet_35: -813501943
+      MMXspriteSheet_36: -1804912247
+      MMXspriteSheet_37: 906491196
+      MMXspriteSheet_38: 791011015
+      MMXspriteSheet_39: -142965711
+      MMXspriteSheet_4: 730816232
+      MMXspriteSheet_40: 1937141642
+      MMXspriteSheet_41: -1547702098
+      MMXspriteSheet_42: 172785746
+      MMXspriteSheet_43: -1017324403
+      MMXspriteSheet_44: 312500546
+      MMXspriteSheet_45: 722566483
+      MMXspriteSheet_46: 2087408251
+      MMXspriteSheet_47: -973589788
+      MMXspriteSheet_48: -465744498
+      MMXspriteSheet_49: -1598026407
+      MMXspriteSheet_5: -1723278548
+      MMXspriteSheet_50: 1163821373
+      MMXspriteSheet_51: -1762528391
+      MMXspriteSheet_52: -1693742676
+      MMXspriteSheet_53: -1090834554
+      MMXspriteSheet_54: -1572029517
+      MMXspriteSheet_55: 239252911
+      MMXspriteSheet_56: -973061913
+      MMXspriteSheet_57: 1975654614
+      MMXspriteSheet_58: -395536651
+      MMXspriteSheet_59: -352418352
+      MMXspriteSheet_6: -1370912667
+      MMXspriteSheet_60: -1847000873
+      MMXspriteSheet_61: -264256645
+      MMXspriteSheet_62: -510765434
+      MMXspriteSheet_63: 771706145
+      MMXspriteSheet_64: -1644050802
+      MMXspriteSheet_65: 813077823
+      MMXspriteSheet_66: -1858893869
+      MMXspriteSheet_67: -776165304
+      MMXspriteSheet_68: 112099787
+      MMXspriteSheet_69: -1329676037
+      MMXspriteSheet_7: 495233276
+      MMXspriteSheet_70: -638626646
+      MMXspriteSheet_71: -1766006045
+      MMXspriteSheet_72: 1150469363
+      MMXspriteSheet_73: 545819414
+      MMXspriteSheet_74: -289418628
+      MMXspriteSheet_75: -196665605
+      MMXspriteSheet_76: -269052909
+      MMXspriteSheet_77: -1089343235
+      MMXspriteSheet_78: -849129898
+      MMXspriteSheet_79: -367335717
+      MMXspriteSheet_8: 1856022242
+      MMXspriteSheet_80: -547419940
+      MMXspriteSheet_81: 1582581957
+      MMXspriteSheet_82: 998546484
+      MMXspriteSheet_83: 853819352
+      MMXspriteSheet_84: 1292367070
+      MMXspriteSheet_85: 283632720
+      MMXspriteSheet_86: 1894029580
+      MMXspriteSheet_87: 254895124
+      MMXspriteSheet_88: -961277084
+      MMXspriteSheet_89: -1579253630
+      MMXspriteSheet_9: -1475298236
+      MMXspriteSheet_90: -2053815975
+      MMXspriteSheet_91: 394254554
+      MMXspriteSheet_92: 1868649643
+      MMXspriteSheet_93: 2075289366
+      MMXspriteSheet_94: -1056893167
+      MMXspriteSheet_95: -1754065291
+      MMXspriteSheet_96: 55640746
+      MMXspriteSheet_97: 135354222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
